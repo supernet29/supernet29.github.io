@@ -19,9 +19,9 @@ I'm Jeju national university student
    I have small private home server
 
 - Networking programming  
-    a little bit
+    a little bit  
 
-  - Android programming  
+- Android programming  
     a little bit
 
 ##Education
